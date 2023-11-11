@@ -1,0 +1,29 @@
+name: chatit
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0' # Update the Dart SDK version if necessary
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:  # Check the latest version on pub.dev
+  firebase_auth:  # Add the version suitable for your project
+  cloud_firestore:  # Add the version suitable for your project
+  cupertino_icons:
+  image_picker: ^0.8.3+2 
+  uuid: ^3.0.4
+  firebase_storage:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
