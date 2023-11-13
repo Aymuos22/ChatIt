@@ -37,6 +37,17 @@ Note: The project is open for contributions, and I welcome collaboration with ot
    git clone https://github.com/Aymuos22/Chatit.git
 
 2. **Screens**
+   **Login/Signup**
    ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/6a72b982-6f9f-47a7-9eeb-ecc4fd044bf3)
+   ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/6a84f3a3-8336-4b6b-beb3-f3875bcc26d2)
+   
+   **AI ChatBot**
+   ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/86708d37-ae68-4571-ab9c-0380fca0d8ad)
+   **Chat one-on-one**
+   ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/76b478e8-b013-4777-b1b9-7a7b94612d35)
+   **Group Chat**
+   ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/962e0cd6-8fab-4c5a-ae18-517f18cad70a)
+
+
 
   
