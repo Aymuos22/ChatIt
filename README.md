@@ -38,6 +38,7 @@ Note: The project is open for contributions, and I welcome collaboration with ot
 
 2. **Screens**
    **Login/Signup**
+
    ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/6a72b982-6f9f-47a7-9eeb-ecc4fd044bf3)
    ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/6a84f3a3-8336-4b6b-beb3-f3875bcc26d2)
    
