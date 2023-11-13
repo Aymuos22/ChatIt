@@ -1,4 +1,4 @@
-#ChatIt - Flutter Chat Application with AI Chatbot
+**ChatIt - Flutter Chat Application with AI Chatbot**
 Overview:
 
 ChatIt is a mobile chat application developed using Flutter that facilitates real-time group conversations. The app integrates Firebase for secure user authentication and Firestore for real-time messaging. The project includes a built-in AI chatbot, adding an intelligent and interactive element to the chatting experience.
@@ -35,3 +35,8 @@ Note: The project is open for contributions, and I welcome collaboration with ot
 
    ```bash
    git clone https://github.com/Aymuos22/Chatit.git
+
+2. **Screens**
+   ![image](https://github.com/Aymuos22/ChatIt/assets/126803243/6a72b982-6f9f-47a7-9eeb-ecc4fd044bf3)
+
+  
